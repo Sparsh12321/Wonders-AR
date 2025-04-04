@@ -23,17 +23,19 @@
 - **Unity** 🎮 (Game Engine)
 - **AR Foundation** 📡 (Augmented Reality Framework)
 - **C#** 💻 (Programming Language)
-- **3D Modeling** 🏗️ (Blender, Maya, or Sketchfab Models)
+- **3D Modeling** 🏗️ (Blender & Sketchfab Models)
 
 ## 🚀 Installation & Setup
 ```sh
 # Clone the repository
 git clone https://github.com/yourusername/Wonders-AR.git
 cd Wonders-AR
-
+```
+```sh
 # Open the project in Unity
 # Ensure AR Foundation and required dependencies are installed
-
+```
+```sh
 # Deploy on a compatible AR-supported device (Android/iOS)
 ```
 
@@ -58,6 +60,6 @@ This project is licensed under the **MIT License**.
 
 ## 📩 Contact
 For any inquiries or collaborations, reach out to me via:
-📧 Email: your.email@example.com  
+📧 Email: jainsparsh231@gmail.com  
 🐙 GitHub: [yourusername](https://github.com/yourusername)
 
